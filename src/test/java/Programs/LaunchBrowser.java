@@ -32,6 +32,7 @@ public class LaunchBrowser {
 		WebElement loginButton = driver.findElement(By.xpath("//button[@type='submit']"));
 		loginButton.click();
 		driver.close();
+		// new comment added
 	}
 	
 }
