@@ -33,6 +33,8 @@ public class LaunchBrowser {
 		loginButton.click();
 		driver.close();
 		// new comment added
+		
+		// testing
 	}
 	
 }
